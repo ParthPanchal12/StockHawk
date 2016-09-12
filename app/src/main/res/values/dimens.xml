@@ -11,4 +11,15 @@
   <dimen name="collection_widget_default_height">180dp</dimen>
   <dimen name="collection_widget_default_width">180dp</dimen>
 
+  <!-- Detail Activity -->
+  <dimen name="detail_activity_margin">10dp</dimen>
+  <dimen name="detail_activity_padding_top">10dp</dimen>
+
+  <!-- List Item quote padding -->
+  <dimen name="layout_padding_start">16dp</dimen>
+  <dimen name="layout_padding_end">16dp</dimen>
+  <dimen name="layout_height">72p</dimen>
+  <dimen name="bid_padding_end">10sp</dimen>
+  <dimen name="change_padding_start">3dp</dimen>
+  <dimen name="change_padding_end">3dp</dimen>
 </resources>

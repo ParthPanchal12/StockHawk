@@ -13,7 +13,7 @@
         android:layout_gravity="center_horizontal"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
-        android:paddingTop="10dp"
+        android:paddingTop="@dimen/detail_activity_padding_top"
         style="@style/StockSymbolTextStyle"
         tools:text="GOOG" />
 
@@ -22,6 +22,6 @@
         android:id="@+id/linechart"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:layout_margin="10dp" />
+        android:layout_margin="@dimen/detail_activity_margin" />
 
 </LinearLayout>
